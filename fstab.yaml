@@ -2,3 +2,4 @@ mountpoints:
   /: https://drive.google.com/drive/folders/12gQm7rFTC0TmkUDM366O3jzrlKZarAA1
 folders:
   /products/: /products/default
+  /category/: /category/default
